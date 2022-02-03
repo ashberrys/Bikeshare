@@ -1,2 +1,5 @@
 # Bikeshare
-This is an exploration of a Bikeshare Dataset from Chicago, New York, and Washington DC from the year 2017
+This is an exploration of a Bikeshare Data set from Chicago, New York, and Washington DC from the year 2017.
+
+# Description
+This is an exploratory data analysis in R with data visualizations for the Udacity nanodegree for Data Analysts.
